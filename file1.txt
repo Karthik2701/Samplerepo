@@ -1,6 +1,4 @@
 this is the file1
-<<<<<<< HEAD
 this is line two in the file
 this is line three in the file
-=======
->>>>>>> parent of 18554cb (line two added to the file)
+this is the fourth line im adding here to the file
